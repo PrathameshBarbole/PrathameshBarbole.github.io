@@ -26,5 +26,6 @@ I am an IT Engineering Student, Also Software Devloper, Gamer, I Am Expert In Mi
 
 ![Discord](https://lanyard.cnrad.dev/api/794211471516893204)
 
-<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2208Prathamesh&theme=github_dark&show_icons=true&layout=compact" />
+<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2208Prathamesh&theme=github_dark&show_icons=true&layout=compact" 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2208Prathamesh&show_icons=true&theme=dark&count_private=true)
 

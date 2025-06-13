@@ -59,6 +59,7 @@
 <p align="center">
   <a href="mailto:heropixelnetwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-heropixelnetwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.heroos.tech"><img src="https://img.shields.io/badge/My%20Website-HeroOS.tech-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/2208Prathamesh"><img src="https://img.shields.io/badge/GitHub-2208Prathamesh-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://discord.com/users/794211471516893204" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Prathamesh%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>

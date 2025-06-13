@@ -8,7 +8,7 @@ I am an IT Engineering Student, Also Software Devloper, Gamer, I Am Expert In Mi
 
 
 
-`🌐` You Can See My Recent Project's In [http://www.heropixel.fun](http://www.heropixel.fun).
+`🌐` You Can See My Recent Project's In [http://www.heropixel.fun](http://www.heroos.tech).    
 <br>
 `✉️` You Can [heropixelnetwork@gmail.com](mailto:heropixelnetwork@gmail.com) if you need to Talk or any Queries,
 
